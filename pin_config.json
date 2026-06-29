@@ -1,5 +1,6 @@
 {
   "pin": "767",
+  "superAdminPassword": "gojosatoru",
   "enabled": true,
   "version": 1
 }
